@@ -1,4 +1,4 @@
-#Architecture
+# Architecture
 
 Frontend -- React [x]  ---> http://localhost:3000
 
@@ -8,7 +8,7 @@ Backend -- Java (Sprint Boot)
 * Shipment Service [x] ---> http://localhost:8081
 * RabbitMQ [x]  ---> http://localhost:5672  (using demo docker image)
 
-#Process
+# Process
 
 1. Frontend calls an API for order registration
 1. Order Service registers a order
@@ -19,14 +19,14 @@ Backend -- Java (Sprint Boot)
 6. Frontend displays updated status
 
 
-#Tricks
+# Tricks
 * DDD [x]
 * Async messaging over RabbitMQ  [x]
 * Saga [x]
 * Circuit breaker and catche [ ]
 
 
-#Progress
+# Progress
 
 2020-12-24
 Basic features have implemented. Error handling is still not implemented at all.
