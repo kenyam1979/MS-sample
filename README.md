@@ -3,10 +3,10 @@
 Frontend -- React [x]  ---> http://localhost:3000
 
 Backend -- Java (Sprint Boot)
-* API GW [x]  ---> http://localhost:3001
-* Order Service [x]  ---> http://localhost:8080
-* Shipment Service [x] ---> http://localhost:8081
-* RabbitMQ [x]  ---> http://localhost:5672  (using demo docker image)
+* API GW ---> http://localhost:3001
+* Order Service ---> http://localhost:8080
+* Shipment Service ---> http://localhost:8081
+* RabbitMQ ---> http://localhost:5672  (using demo docker image)
 
 # Process
 
@@ -20,16 +20,15 @@ Backend -- Java (Sprint Boot)
 
 
 # Tricks
-* DDD [x]
-* Async messaging over RabbitMQ  [x]
-* Saga [x]
-* Circuit breaker and catche [ ]
+[x] DDD 
+[x] Async messaging over RabbitMQ 
+[x] Saga 
+[ ] Circuit breaker and catche 
 
 
 # Progress
 
 2020-12-24
 Basic features have implemented. Error handling is still not implemented at all.
-
 2020-12-25
 Major error handling has implemented.
