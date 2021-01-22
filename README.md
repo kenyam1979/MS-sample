@@ -20,10 +20,10 @@ Backend -- Java (Sprint Boot)
 
 
 # Tricks
-[x] DDD 
-[x] Async messaging over RabbitMQ 
-[x] Saga 
-[ ] Circuit breaker and catche 
+- [x] DDD 
+- [x] Async messaging over RabbitMQ 
+- [x] Saga 
+- [ ] Circuit breaker and catche 
 
 
 # Progress
