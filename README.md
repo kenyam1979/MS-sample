@@ -30,5 +30,6 @@ Backend -- Java (Sprint Boot)
 
 2020-12-24
 Basic features have implemented. Error handling is still not implemented at all.
+
 2020-12-25
 Major error handling has implemented.
